@@ -1,0 +1,1482 @@
+{"num_comics": 11, "name": "3-D Man"}
+{"num_comics": 0, "name": "A-Bomb (HAS)"}
+{"num_comics": 36, "name": "A.I.M."}
+{"num_comics": 0, "name": "Aaron Stack"}
+{"num_comics": 43, "name": "Abomination (Emil Blonsky)"}
+{"num_comics": 3, "name": "Abomination (Ultimate)"}
+{"num_comics": 43, "name": "Absorbing Man"}
+{"num_comics": 8, "name": "Abyss"}
+{"num_comics": 0, "name": "Abyss (Age of Apocalypse)"}
+{"num_comics": 0, "name": "Adam Destine"}
+{"num_comics": 104, "name": "Adam Warlock"}
+{"num_comics": 0, "name": "Aegis (Trey Rollins)"}
+{"num_comics": 5, "name": "Agent Brand"}
+{"num_comics": 10, "name": "Agent X (Nijo)"}
+{"num_comics": 20, "name": "Agent Zero"}
+{"num_comics": 31, "name": "Agents of Atlas"}
+{"num_comics": 0, "name": "Aginar"}
+{"num_comics": 3, "name": "Air-Walker (Gabriel Lan)"}
+{"num_comics": 0, "name": "Ajak"}
+{"num_comics": 0, "name": "Ajaxis"}
+{"num_comics": 0, "name": "Akemi"}
+{"num_comics": 0, "name": "Alain"}
+{"num_comics": 0, "name": "Albert Cleary"}
+{"num_comics": 0, "name": "Albion"}
+{"num_comics": 1, "name": "Alex Power"}
+{"num_comics": 7, "name": "Alex Wilder"}
+{"num_comics": 0, "name": "Alexa Mendez"}
+{"num_comics": 1, "name": "Alexander Pierce"}
+{"num_comics": 0, "name": "Alice"}
+{"num_comics": 9, "name": "Alicia Masters"}
+{"num_comics": 169, "name": "Alpha Flight"}
+{"num_comics": 0, "name": "Alpha Flight (Ultimate)"}
+{"num_comics": 0, "name": "Alvin Maker"}
+{"num_comics": 26, "name": "Amadeus Cho"}
+{"num_comics": 0, "name": "Amanda Sefton"}
+{"num_comics": 0, "name": "Amazoness"}
+{"num_comics": 5, "name": "American Eagle (Jason Strongbow)"}
+{"num_comics": 11, "name": "Amiko"}
+{"num_comics": 0, "name": "Amora"}
+{"num_comics": 3, "name": "Amphibian (Earth-712)"}
+{"num_comics": 0, "name": "Amun"}
+{"num_comics": 21, "name": "Ancient One"}
+{"num_comics": 2, "name": "Ancient One (Ultimate)"}
+{"num_comics": 4, "name": "Angel (Thomas Halloway)"}
+{"num_comics": 4, "name": "Angel (Ultimate)"}
+{"num_comics": 0, "name": "Angel (Warren Worthington III)"}
+{"num_comics": 0, "name": "Angela (Aldrif Odinsdottir)"}
+{"num_comics": 20, "name": "Anita Blake"}
+{"num_comics": 0, "name": "Anne Marie Hoag"}
+{"num_comics": 33, "name": "Annihilus"}
+{"num_comics": 1, "name": "Anole"}
+{"num_comics": 32, "name": "Ant-Man (Eric O'Grady)"}
+{"num_comics": 2, "name": "Ant-Man (Scott Lang)"}
+{"num_comics": 0, "name": "Anthem"}
+{"num_comics": 73, "name": "Apocalypse"}
+{"num_comics": 0, "name": "Apocalypse (Ultimate)"}
+{"num_comics": 0, "name": "Aqueduct"}
+{"num_comics": 3, "name": "Arachne"}
+{"num_comics": 0, "name": "Ara\u064ca"}
+{"num_comics": 18, "name": "Arcade"}
+{"num_comics": 2, "name": "Arcana"}
+{"num_comics": 533, "name": "Archangel"}
+{"num_comics": 13, "name": "Arclight"}
+{"num_comics": 41, "name": "Ares"}
+{"num_comics": 0, "name": "Argent"}
+{"num_comics": 0, "name": "Armadillo"}
+{"num_comics": 4, "name": "Armor (Hisako Ichiki)"}
+{"num_comics": 2, "name": "Armory"}
+{"num_comics": 6, "name": "Arnim Zola"}
+{"num_comics": 0, "name": "Arsenic"}
+{"num_comics": 1, "name": "Artiee"}
+{"num_comics": 0, "name": "Asgardian"}
+{"num_comics": 0, "name": "Askew-Tronics"}
+{"num_comics": 0, "name": "Asylum"}
+{"num_comics": 12, "name": "Atlas (Team)"}
+{"num_comics": 53, "name": "Aurora"}
+{"num_comics": 30, "name": "Avalanche"}
+{"num_comics": 963, "name": "Avengers"}
+{"num_comics": 23, "name": "Avengers (Ultimate)"}
+{"num_comics": 2, "name": "Azazel (Mutant)"}
+{"num_comics": 166, "name": "Banshee"}
+{"num_comics": 139, "name": "Banshee (Theresa Rourke)"}
+{"num_comics": 26, "name": "Baron Strucker"}
+{"num_comics": 20, "name": "Baron Zemo (Heinrich Zemo)"}
+{"num_comics": 8, "name": "Baron Zemo (Helmut Zemo)"}
+{"num_comics": 0, "name": "Baroness S'Bak"}
+{"num_comics": 1, "name": "Barracuda"}
+{"num_comics": 0, "name": "Bart Rozum"}
+{"num_comics": 25, "name": "Bastion"}
+{"num_comics": 10, "name": "Batroc the Leaper"}
+{"num_comics": 2, "name": "Battering Ram"}
+{"num_comics": 12, "name": "Beak"}
+{"num_comics": 571, "name": "Beast"}
+{"num_comics": 0, "name": "Beast (Earth-311)"}
+{"num_comics": 43, "name": "Beast (Ultimate)"}
+{"num_comics": 0, "name": "Becatron"}
+{"num_comics": 8, "name": "Bedlam"}
+{"num_comics": 1, "name": "Beef"}
+{"num_comics": 13, "name": "Beetle (Abner Jenkins)"}
+{"num_comics": 0, "name": "Ben Grimm"}
+{"num_comics": 7, "name": "Ben Parker"}
+{"num_comics": 4, "name": "Ben Reilly"}
+{"num_comics": 11, "name": "Ben Urich"}
+{"num_comics": 9, "name": "Bengal"}
+{"num_comics": 21, "name": "Beta-Ray Bill"}
+{"num_comics": 16, "name": "Betty Brant"}
+{"num_comics": 6, "name": "Betty Ross"}
+{"num_comics": 2, "name": "Beyonder"}
+{"num_comics": 0, "name": "Bi-Beast"}
+{"num_comics": 4, "name": "Big Bertha"}
+{"num_comics": 2, "name": "Big Wheel"}
+{"num_comics": 0, "name": "Bill Hollister"}
+{"num_comics": 241, "name": "Bishop"}
+{"num_comics": 0, "name": "Bishop (Ultimate)"}
+{"num_comics": 0, "name": "Black Bird"}
+{"num_comics": 68, "name": "Black Bolt"}
+{"num_comics": 0, "name": "Black Bolt (Marvel War of Heroes)"}
+{"num_comics": 74, "name": "Black Cat"}
+{"num_comics": 4, "name": "Black Cat (Ultimate)"}
+{"num_comics": 1, "name": "Black Crow"}
+{"num_comics": 98, "name": "Black Knight (Sir Percy of Scandia)"}
+{"num_comics": 336, "name": "Black Panther"}
+{"num_comics": 3, "name": "Black Panther (Ultimate)"}
+{"num_comics": 0, "name": "Black Queen"}
+{"num_comics": 2, "name": "Black Tarantula"}
+{"num_comics": 2, "name": "Black Tom"}
+{"num_comics": 286, "name": "Black Widow"}
+{"num_comics": 0, "name": "Black Widow (LEGO Marvel Super Heroes)"}
+{"num_comics": 8, "name": "Black Widow (Ultimate)"}
+{"num_comics": 0, "name": "Black Widow/Natasha Romanoff (MAA)"}
+{"num_comics": 4, "name": "Blackheart"}
+{"num_comics": 0, "name": "Blacklash"}
+{"num_comics": 1, "name": "Blackout"}
+{"num_comics": 36, "name": "Blade"}
+{"num_comics": 25, "name": "Blastaar"}
+{"num_comics": 2, "name": "Blazing Skull"}
+{"num_comics": 0, "name": "Blindfold"}
+{"num_comics": 41, "name": "Blink"}
+{"num_comics": 7, "name": "Blizzard"}
+{"num_comics": 60, "name": "Blob"}
+{"num_comics": 15, "name": "Blob (Ultimate)"}
+{"num_comics": 11, "name": "Blockbuster"}
+{"num_comics": 6, "name": "Blok"}
+{"num_comics": 3, "name": "Bloke"}
+{"num_comics": 15, "name": "Blonde Phantom"}
+{"num_comics": 5, "name": "Bloodaxe"}
+{"num_comics": 5, "name": "Bloodscream"}
+{"num_comics": 4, "name": "Bloodstorm"}
+{"num_comics": 0, "name": "Bloodstrike"}
+{"num_comics": 1, "name": "Blue Blade"}
+{"num_comics": 9, "name": "Blue Marvel"}
+{"num_comics": 0, "name": "Blue Shield"}
+{"num_comics": 4, "name": "Blur"}
+{"num_comics": 5, "name": "Bob, Agent of Hydra"}
+{"num_comics": 39, "name": "Boom Boom"}
+{"num_comics": 58, "name": "Boomer"}
+{"num_comics": 18, "name": "Boomerang"}
+{"num_comics": 4, "name": "Box"}
+{"num_comics": 6, "name": "Bride of Nine Spiders (Immortal Weapons)"}
+{"num_comics": 0, "name": "Bromley"}
+{"num_comics": 15, "name": "Brood"}
+{"num_comics": 0, "name": "Brother Voodoo"}
+{"num_comics": 13, "name": "Brotherhood of Evil Mutants"}
+{"num_comics": 6, "name": "Brotherhood of Mutants (Ultimate)"}
+{"num_comics": 0, "name": "Bruce Banner"}
+{"num_comics": 0, "name": "Brute"}
+{"num_comics": 0, "name": "Bucky"}
+{"num_comics": 2, "name": "Bug"}
+{"num_comics": 6, "name": "Bulldozer"}
+{"num_comics": 56, "name": "Bullseye"}
+{"num_comics": 8, "name": "Bushwacker"}
+{"num_comics": 0, "name": "Butterfly"}
+{"num_comics": 284, "name": "Cable"}
+{"num_comics": 0, "name": "Cable (Deadpool)"}
+{"num_comics": 0, "name": "Cable (Marvel: Avengers Alliance)"}
+{"num_comics": 0, "name": "Cable (Ultimate)"}
+{"num_comics": 0, "name": "Cable (X-Men: Battle of the Atom)"}
+{"num_comics": 0, "name": "Calamity"}
+{"num_comics": 67, "name": "Caliban"}
+{"num_comics": 31, "name": "Callisto"}
+{"num_comics": 0, "name": "Callisto (Age of Apocalypse)"}
+{"num_comics": 5, "name": "Calypso"}
+{"num_comics": 0, "name": "Cammi"}
+{"num_comics": 239, "name": "Cannonball"}
+{"num_comics": 0, "name": "Cap'n Oz"}
+{"num_comics": 1422, "name": "Captain America"}
+{"num_comics": 3, "name": "Captain America (House of M)"}
+{"num_comics": 0, "name": "Captain America (LEGO Marvel Super Heroes)"}
+{"num_comics": 0, "name": "Captain America (Marvel War of Heroes)"}
+{"num_comics": 0, "name": "Captain America (Sam Wilson)"}
+{"num_comics": 38, "name": "Captain America (Ultimate)"}
+{"num_comics": 0, "name": "Captain America/Steve Rogers (MAA)"}
+{"num_comics": 92, "name": "Captain Britain"}
+{"num_comics": 0, "name": "Captain Britain (Ultimate)"}
+{"num_comics": 0, "name": "Captain Cross"}
+{"num_comics": 1, "name": "Captain Flint"}
+{"num_comics": 321, "name": "Captain Marvel (Carol Danvers)"}
+{"num_comics": 0, "name": "Captain Marvel (Genis-Vell)"}
+{"num_comics": 152, "name": "Captain Marvel (Mar-Vell)"}
+{"num_comics": 0, "name": "Captain Marvel (Monica Rambeau)"}
+{"num_comics": 0, "name": "Captain Marvel (Phyla-Vell)"}
+{"num_comics": 0, "name": "Captain Midlands"}
+{"num_comics": 0, "name": "Captain Stacy"}
+{"num_comics": 17, "name": "Captain Universe"}
+{"num_comics": 2, "name": "Cardiac"}
+{"num_comics": 3, "name": "Caretaker"}
+{"num_comics": 1, "name": "Cargill"}
+{"num_comics": 60, "name": "Carlie Cooper"}
+{"num_comics": 11, "name": "Carmella Unuscione"}
+{"num_comics": 21, "name": "Carnage"}
+{"num_comics": 2, "name": "Carnage (Ultimate)"}
+{"num_comics": 0, "name": "Carol Danvers"}
+{"num_comics": 0, "name": "Carol Hines"}
+{"num_comics": 0, "name": "Cassandra Nova"}
+{"num_comics": 1, "name": "Catseye"}
+{"num_comics": 4, "name": "Cecilia Reyes"}
+{"num_comics": 14, "name": "Celestials"}
+{"num_comics": 2, "name": "Centennial"}
+{"num_comics": 0, "name": "Centurions"}
+{"num_comics": 6, "name": "Cerebro"}
+{"num_comics": 2, "name": "Cerise"}
+{"num_comics": 40, "name": "Ch'od"}
+{"num_comics": 24, "name": "Chamber"}
+{"num_comics": 25, "name": "Chameleon"}
+{"num_comics": 21, "name": "Champions"}
+{"num_comics": 0, "name": "Changeling"}
+{"num_comics": 0, "name": "Charles Xavier"}
+{"num_comics": 0, "name": "Charlie Campion"}
+{"num_comics": 7, "name": "Chase Stein"}
+{"num_comics": 0, "name": "Chat"}
+{"num_comics": 2, "name": "Chimera"}
+{"num_comics": 1, "name": "Chores MacGillicudy"}
+{"num_comics": 2, "name": "Christian Walker"}
+{"num_comics": 3, "name": "Chronomancer"}
+{"num_comics": 18, "name": "ClanDestine"}
+{"num_comics": 57, "name": "Clea"}
+{"num_comics": 2, "name": "Clea (Ultimate)"}
+{"num_comics": 0, "name": "Clint Barton"}
+{"num_comics": 32, "name": "Cloak"}
+{"num_comics": 8, "name": "Cloud 9"}
+{"num_comics": 1, "name": "Cobalt Man"}
+{"num_comics": 16, "name": "Colleen Wing"}
+{"num_comics": 0, "name": "Colonel America"}
+{"num_comics": 552, "name": "Colossus"}
+{"num_comics": 41, "name": "Colossus (Ultimate)"}
+{"num_comics": 1, "name": "Confederates of the Curious"}
+{"num_comics": 27, "name": "Constrictor"}
+{"num_comics": 1, "name": "Contessa (Vera Vidal)"}
+{"num_comics": 7, "name": "Controller"}
+{"num_comics": 0, "name": "Cornelius"}
+{"num_comics": 26, "name": "Corsair"}
+{"num_comics": 2, "name": "Cosmo (dog)"}
+{"num_comics": 0, "name": "Cottonmouth"}
+{"num_comics": 18, "name": "Count Nefaria"}
+{"num_comics": 2, "name": "Countess"}
+{"num_comics": 0, "name": "Crimson Crusader"}
+{"num_comics": 32, "name": "Crimson Dynamo"}
+{"num_comics": 0, "name": "Crimson Dynamo (Iron Man 3 - The Official Game)"}
+{"num_comics": 0, "name": "Crimson King"}
+{"num_comics": 35, "name": "Crossbones"}
+{"num_comics": 6, "name": "Crule"}
+{"num_comics": 3, "name": "Crusher Hogan"}
+{"num_comics": 4, "name": "Crusher Hogan (Ultimate)"}
+{"num_comics": 61, "name": "Crystal"}
+{"num_comics": 0, "name": "Cuckoo"}
+{"num_comics": 0, "name": "Curt Conners"}
+{"num_comics": 0, "name": "Cuthbert"}
+{"num_comics": 11, "name": "Cyber"}
+{"num_comics": 697, "name": "Cyclops"}
+{"num_comics": 44, "name": "Cyclops (Ultimate)"}
+{"num_comics": 0, "name": "Cyclops (X-Men: Battle of the Atom)"}
+{"num_comics": 7, "name": "Cypher"}
+{"num_comics": 0, "name": "D'Ken Neramani"}
+{"num_comics": 32, "name": "Dagger"}
+{"num_comics": 1, "name": "Daily Bugle"}
+{"num_comics": 4, "name": "Daimon Hellstrom"}
+{"num_comics": 25, "name": "Daken"}
+{"num_comics": 0, "name": "Dakota North"}
+{"num_comics": 1, "name": "Damage Control"}
+{"num_comics": 14, "name": "Dani Moonstar"}
+{"num_comics": 0, "name": "Danny Rand"}
+{"num_comics": 818, "name": "Daredevil"}
+{"num_comics": 0, "name": "Daredevil (LEGO Marvel Super Heroes)"}
+{"num_comics": 0, "name": "Daredevil (Marvel Heroes)"}
+{"num_comics": 10, "name": "Daredevil (Ultimate)"}
+{"num_comics": 1, "name": "Dargo Ktor"}
+{"num_comics": 46, "name": "Dark Avengers"}
+{"num_comics": 2, "name": "Dark Beast"}
+{"num_comics": 17, "name": "Dark Phoenix"}
+{"num_comics": 6, "name": "Dark X-Men"}
+{"num_comics": 6, "name": "Darkhawk"}
+{"num_comics": 20, "name": "Darkstar"}
+{"num_comics": 0, "name": "Darwin"}
+{"num_comics": 157, "name": "Dazzler"}
+{"num_comics": 0, "name": "Dazzler (Ultimate)"}
+{"num_comics": 0, "name": "Deacon Frost"}
+{"num_comics": 12, "name": "Dead Girl"}
+{"num_comics": 384, "name": "Deadpool"}
+{"num_comics": 0, "name": "Deadpool (Deadpool)"}
+{"num_comics": 0, "name": "Deadpool (LEGO Marvel Super Heroes)"}
+{"num_comics": 0, "name": "Deadpool (X-Men: Battle of the Atom)"}
+{"num_comics": 16, "name": "Death"}
+{"num_comics": 26, "name": "Deathbird"}
+{"num_comics": 3, "name": "Deathcry"}
+{"num_comics": 22, "name": "Deathlok"}
+{"num_comics": 2, "name": "Deathstrike (Ultimate)"}
+{"num_comics": 0, "name": "Debra Whitman"}
+{"num_comics": 3, "name": "Debrii"}
+{"num_comics": 2, "name": "Deena Pilgrim"}
+{"num_comics": 170, "name": "Defenders"}
+{"num_comics": 1, "name": "Demogoblin"}
+{"num_comics": 41, "name": "Destiny"}
+{"num_comics": 0, "name": "Detective Soap"}
+{"num_comics": 4, "name": "Deviants"}
+{"num_comics": 0, "name": "Devil Dinosaur (HAS)"}
+{"num_comics": 0, "name": "Devos"}
+{"num_comics": 3, "name": "Dexter Bennett"}
+{"num_comics": 20, "name": "Diablo"}
+{"num_comics": 34, "name": "Diamondback (Rachel Leighton)"}
+{"num_comics": 4, "name": "Dinah Soar"}
+{"num_comics": 0, "name": "Dirk Anger"}
+{"num_comics": 62, "name": "Doc Samson"}
+{"num_comics": 183, "name": "Doctor Doom"}
+{"num_comics": 5, "name": "Doctor Doom (Ultimate)"}
+{"num_comics": 0, "name": "Doctor Faustus"}
+{"num_comics": 70, "name": "Doctor Octopus"}
+{"num_comics": 13, "name": "Doctor Octopus (Ultimate)"}
+{"num_comics": 13, "name": "Doctor Spectrum"}
+{"num_comics": 412, "name": "Doctor Strange"}
+{"num_comics": 3, "name": "Doctor Strange (Ultimate)"}
+{"num_comics": 5, "name": "Dog Brother #1"}
+{"num_comics": 123, "name": "Domino"}
+{"num_comics": 1, "name": "Donald Blake"}
+{"num_comics": 3, "name": "Doomsday Man"}
+{"num_comics": 27, "name": "Doop"}
+{"num_comics": 4, "name": "Doorman"}
+{"num_comics": 0, "name": "Dorian Gray"}
+{"num_comics": 29, "name": "Dormammu"}
+{"num_comics": 2, "name": "Dormammu (Ultimate)"}
+{"num_comics": 0, "name": "Dr. Strange (Marvel: Avengers Alliance)"}
+{"num_comics": 37, "name": "Dracula"}
+{"num_comics": 2, "name": "Dragon Lord"}
+{"num_comics": 30, "name": "Dragon Man"}
+{"num_comics": 9, "name": "Drax"}
+{"num_comics": 0, "name": "Dreadnoughts"}
+{"num_comics": 3, "name": "Dreaming Celestial"}
+{"num_comics": 0, "name": "Druig"}
+{"num_comics": 29, "name": "Dum Dum Dugan"}
+{"num_comics": 8, "name": "Dust"}
+{"num_comics": 7, "name": "Earthquake"}
+{"num_comics": 22, "name": "Echo"}
+{"num_comics": 0, "name": "Eddie Brock"}
+{"num_comics": 0, "name": "Eddie Lau"}
+{"num_comics": 2, "name": "Edward Ted Forrester"}
+{"num_comics": 72, "name": "Edwin Jarvis"}
+{"num_comics": 4, "name": "Ego"}
+{"num_comics": 64, "name": "Electro"}
+{"num_comics": 4, "name": "Electro (Ultimate)"}
+{"num_comics": 110, "name": "Elektra"}
+{"num_comics": 9, "name": "Elektra (Ultimate)"}
+{"num_comics": 0, "name": "Elements of Doom"}
+{"num_comics": 0, "name": "Elite"}
+{"num_comics": 6, "name": "Elixir"}
+{"num_comics": 0, "name": "Elloe Kaifi"}
+{"num_comics": 1, "name": "Elsa Bloodstone"}
+{"num_comics": 221, "name": "Emma Frost"}
+{"num_comics": 9, "name": "Empath"}
+{"num_comics": 2, "name": "Emplate"}
+{"num_comics": 5, "name": "Enchantress (Amora)"}
+{"num_comics": 1, "name": "Enchantress (Sylvie Lushton)"}
+{"num_comics": 5, "name": "Ender Wiggin"}
+{"num_comics": 1, "name": "Energizer"}
+{"num_comics": 0, "name": "Epoch"}
+{"num_comics": 3, "name": "Erik the Red"}
+{"num_comics": 45, "name": "Eternals"}
+{"num_comics": 8, "name": "Eternity"}
+{"num_comics": 167, "name": "Excalibur"}
+{"num_comics": 109, "name": "Exiles"}
+{"num_comics": 16, "name": "Exodus"}
+{"num_comics": 0, "name": "Expediter"}
+{"num_comics": 5, "name": "Ezekiel"}
+{"num_comics": 4, "name": "Ezekiel Stane"}
+{"num_comics": 0, "name": "Fabian Cortez"}
+{"num_comics": 117, "name": "Falcon"}
+{"num_comics": 0, "name": "Falcon/Sam Wilson (MAA)"}
+{"num_comics": 0, "name": "Fallen One"}
+{"num_comics": 15, "name": "Famine"}
+{"num_comics": 1077, "name": "Fantastic Four"}
+{"num_comics": 22, "name": "Fantastic Four (Ultimate)"}
+{"num_comics": 0, "name": "Fantastick Four"}
+{"num_comics": 20, "name": "Fantomex"}
+{"num_comics": 9, "name": "Fat Cobra"}
+{"num_comics": 0, "name": "Felicia Hardy"}
+{"num_comics": 5, "name": "Fenris"}
+{"num_comics": 1, "name": "Feral"}
+{"num_comics": 10, "name": "Fin Fang Foom"}
+{"num_comics": 27, "name": "Firebird"}
+{"num_comics": 5, "name": "Firebrand"}
+{"num_comics": 0, "name": "Firedrake"}
+{"num_comics": 24, "name": "Firelord"}
+{"num_comics": 82, "name": "Firestar"}
+{"num_comics": 3, "name": "Firestar (Ultimate)"}
+{"num_comics": 5, "name": "Fixer (Paul Norbert Ebersol)"}
+{"num_comics": 4, "name": "Flatman"}
+{"num_comics": 0, "name": "Flying Dutchman"}
+{"num_comics": 13, "name": "Foggy Nelson"}
+{"num_comics": 7, "name": "Force Works"}
+{"num_comics": 20, "name": "Forearm"}
+{"num_comics": 122, "name": "Forge"}
+{"num_comics": 3, "name": "Forge (Ultimate)"}
+{"num_comics": 0, "name": "Forgotten One"}
+{"num_comics": 0, "name": "Frank Castle"}
+{"num_comics": 5, "name": "Frankenstein's Monster"}
+{"num_comics": 32, "name": "Franklin Richards"}
+{"num_comics": 0, "name": "Franklin Storm"}
+{"num_comics": 4, "name": "Freak"}
+{"num_comics": 1, "name": "Frightful Four"}
+{"num_comics": 1, "name": "Frog Thor"}
+{"num_comics": 2, "name": "Frog-Man"}
+{"num_comics": 0, "name": "Gabe Jones"}
+{"num_comics": 107, "name": "Galactus"}
+{"num_comics": 0, "name": "Galia"}
+{"num_comics": 295, "name": "Gambit"}
+{"num_comics": 0, "name": "Gamma Corps"}
+{"num_comics": 10, "name": "Gamora"}
+{"num_comics": 0, "name": "Gamora (Marvel War of Heroes)"}
+{"num_comics": 4, "name": "Gargoyle"}
+{"num_comics": 0, "name": "Gargoyle (Yuri Topolov)"}
+{"num_comics": 0, "name": "Garia"}
+{"num_comics": 10, "name": "Garrison Kane"}
+{"num_comics": 25, "name": "Gateway"}
+{"num_comics": 24, "name": "Gauntlet (Joseph Green)"}
+{"num_comics": 0, "name": "Geiger"}
+{"num_comics": 0, "name": "Gene Sailors"}
+{"num_comics": 79, "name": "Generation X"}
+{"num_comics": 3, "name": "Genesis"}
+{"num_comics": 0, "name": "Genis-Vell"}
+{"num_comics": 9, "name": "George Stacy (Ultimate)"}
+{"num_comics": 6, "name": "Gertrude Yorkes"}
+{"num_comics": 12, "name": "Ghost Rider (Daniel Ketch)"}
+{"num_comics": 215, "name": "Ghost Rider (Johnny Blaze)"}
+{"num_comics": 0, "name": "Ghost Rider (Marvel War of Heroes)"}
+{"num_comics": 2, "name": "Giant Girl"}
+{"num_comics": 0, "name": "Giant Man"}
+{"num_comics": 0, "name": "Giant-dok"}
+{"num_comics": 7, "name": "Giant-Man (Ultimate)"}
+{"num_comics": 10, "name": "Gideon"}
+{"num_comics": 0, "name": "Git Hoskins"}
+{"num_comics": 70, "name": "Gladiator (Kallark)"}
+{"num_comics": 0, "name": "Gladiator (Melvin Potter)"}
+{"num_comics": 2, "name": "Glenn Talbot"}
+{"num_comics": 0, "name": "Glorian"}
+{"num_comics": 8, "name": "Goblin Queen"}
+{"num_comics": 0, "name": "Golden Guardian"}
+{"num_comics": 9, "name": "Goliath (Bill Foster)"}
+{"num_comics": 48, "name": "Gorgon"}
+{"num_comics": 12, "name": "Gorilla Man"}
+{"num_comics": 2, "name": "Grandmaster"}
+{"num_comics": 22, "name": "Gravity"}
+{"num_comics": 2, "name": "Great Lakes Avengers"}
+{"num_comics": 0, "name": "Green Goblin (Barry Norman Osborn)"}
+{"num_comics": 0, "name": "Green Goblin (Harry Osborn)"}
+{"num_comics": 2, "name": "Green Goblin (Ultimate)"}
+{"num_comics": 0, "name": "Gressill"}
+{"num_comics": 15, "name": "Grey Gargoyle"}
+{"num_comics": 0, "name": "Greymalkin"}
+{"num_comics": 22, "name": "Grim Reaper"}
+{"num_comics": 11, "name": "Groot"}
+{"num_comics": 30, "name": "Guardian"}
+{"num_comics": 39, "name": "Guardians of the Galaxy"}
+{"num_comics": 0, "name": "Guardsmen"}
+{"num_comics": 0, "name": "Gunslinger"}
+{"num_comics": 0, "name": "GW Bridge"}
+{"num_comics": 12, "name": "Gwen Stacy"}
+{"num_comics": 4, "name": "Gwen Stacy (Ultimate)"}
+{"num_comics": 2, "name": "H.A.M.M.E.R."}
+{"num_comics": 0, "name": "H.E.R.B.I.E."}
+{"num_comics": 1, "name": "Hairball"}
+{"num_comics": 0, "name": "Half-Life (Tony Masterson)"}
+{"num_comics": 20, "name": "Hammerhead"}
+{"num_comics": 5, "name": "Hammerhead (Ultimate)"}
+{"num_comics": 231, "name": "Hank Pym"}
+{"num_comics": 0, "name": "Hannibal King"}
+{"num_comics": 0, "name": "Happy Hogan"}
+{"num_comics": 10, "name": "Hardball"}
+{"num_comics": 0, "name": "Harley Davidson Cooper"}
+{"num_comics": 12, "name": "Harpoon"}
+{"num_comics": 0, "name": "Harrier"}
+{"num_comics": 0, "name": "Harry Heck"}
+{"num_comics": 49, "name": "Harry Osborn"}
+{"num_comics": 4, "name": "Harry Osborn (Ultimate)"}
+{"num_comics": 2, "name": "Hate-Monger (Adolf Hitler)"}
+{"num_comics": 234, "name": "Havok"}
+{"num_comics": 213, "name": "Hawkeye"}
+{"num_comics": 10, "name": "Hawkeye (Kate Bishop)"}
+{"num_comics": 0, "name": "Hawkeye (Marvel Heroes)"}
+{"num_comics": 14, "name": "Hawkeye (Ultimate)"}
+{"num_comics": 0, "name": "Hawkeye/Clint Barton (MAA)"}
+{"num_comics": 1, "name": "Hedge Knight"}
+{"num_comics": 25, "name": "Hellcat (Patsy Walker)"}
+{"num_comics": 17, "name": "Hellfire Club"}
+{"num_comics": 4, "name": "Hellfire Club (Ultimate)"}
+{"num_comics": 13, "name": "Hellion"}
+{"num_comics": 2, "name": "Hellions (Squad)"}
+{"num_comics": 1, "name": "Hemingway"}
+{"num_comics": 1, "name": "Henry Peter Gyrich"}
+{"num_comics": 36, "name": "Hepzibah"}
+{"num_comics": 137, "name": "Hercules"}
+{"num_comics": 43, "name": "Heroes For Hire"}
+{"num_comics": 0, "name": "Hex"}
+{"num_comics": 24, "name": "High Evolutionary"}
+{"num_comics": 0, "name": "Hindsight Lad"}
+{"num_comics": 1, "name": "Hiroim"}
+{"num_comics": 2, "name": "Hitman"}
+{"num_comics": 0, "name": "Hitomi Sakuma"}
+{"num_comics": 0, "name": "Hobgoblin (Jason Macendale)"}
+{"num_comics": 0, "name": "Hobgoblin (Robin Borne)"}
+{"num_comics": 36, "name": "Hobgoblin (Roderick Kingsley)"}
+{"num_comics": 23, "name": "Holocaust (Age of Apocalypse)"}
+{"num_comics": 0, "name": "Holy"}
+{"num_comics": 62, "name": "Hope Summers"}
+{"num_comics": 0, "name": "Howard Saint"}
+{"num_comics": 70, "name": "Howard The Duck"}
+{"num_comics": 1304, "name": "Hulk"}
+{"num_comics": 0, "name": "Hulk (HAS)"}
+{"num_comics": 0, "name": "Hulk (LEGO Marvel Super Heroes)"}
+{"num_comics": 0, "name": "Hulk (Marvel Zombies)"}
+{"num_comics": 0, "name": "Hulk (Marvel: Avengers Alliance)"}
+{"num_comics": 14, "name": "Hulk (Ultimate)"}
+{"num_comics": 0, "name": "Hulk-dok"}
+{"num_comics": 0, "name": "Hulk/Bruce Banner (MAA)"}
+{"num_comics": 16, "name": "Hulkling"}
+{"num_comics": 2, "name": "Human Cannonball"}
+{"num_comics": 0, "name": "Human Fly (Richard Deacon)"}
+{"num_comics": 12, "name": "Human Robot"}
+{"num_comics": 783, "name": "Human Torch"}
+{"num_comics": 18, "name": "Human Torch (Jim Hammond)"}
+{"num_comics": 24, "name": "Human Torch (Ultimate)"}
+{"num_comics": 4, "name": "Humbug"}
+{"num_comics": 27, "name": "Husk"}
+{"num_comics": 8, "name": "Hussar"}
+{"num_comics": 74, "name": "Hydra"}
+{"num_comics": 4, "name": "Hydro-Man"}
+{"num_comics": 32, "name": "Hyperion (Earth-712)"}
+{"num_comics": 1, "name": "Hypno-Hustler"}
+{"num_comics": 398, "name": "Iceman"}
+{"num_comics": 38, "name": "Iceman (Ultimate)"}
+{"num_comics": 0, "name": "Iceman (X-Men: Battle of the Atom)"}
+{"num_comics": 0, "name": "Ikaris"}
+{"num_comics": 8, "name": "Illuminati"}
+{"num_comics": 0, "name": "Ilyana Rasputin"}
+{"num_comics": 0, "name": "Imp"}
+{"num_comics": 0, "name": "Imperfects"}
+{"num_comics": 5, "name": "Imperial Guard"}
+{"num_comics": 13, "name": "Impossible Man"}
+{"num_comics": 3, "name": "In-Betweener"}
+{"num_comics": 4, "name": "Inertia"}
+{"num_comics": 0, "name": "Infant Terrible"}
+{"num_comics": 67, "name": "Inhumans"}
+{"num_comics": 1, "name": "Ink"}
+{"num_comics": 57, "name": "Invaders"}
+{"num_comics": 389, "name": "Invisible Woman"}
+{"num_comics": 0, "name": "Invisible Woman (Marvel: Avengers Alliance)"}
+{"num_comics": 21, "name": "Invisible Woman (Ultimate)"}
+{"num_comics": 0, "name": "Iron Cross Army"}
+{"num_comics": 6, "name": "Iron Fist (Bei Bang-Wen)"}
+{"num_comics": 123, "name": "Iron Fist (Danny Rand)"}
+{"num_comics": 7, "name": "Iron Fist (Orson Randall)"}
+{"num_comics": 1, "name": "Iron Fist (Quan Yaozu)"}
+{"num_comics": 0, "name": "Iron Fist (USM)"}
+{"num_comics": 1, "name": "Iron Fist (Wu Ao-Shi)"}
+{"num_comics": 7, "name": "Iron Lad"}
+{"num_comics": 2027, "name": "Iron Man"}
+{"num_comics": 0, "name": "Iron Man (Iron Man 3 - The Official Game)"}
+{"num_comics": 0, "name": "Iron Man (LEGO Marvel Super Heroes)"}
+{"num_comics": 0, "name": "Iron Man (Marvel Heroes)"}
+{"num_comics": 0, "name": "Iron Man (Marvel War of Heroes)"}
+{"num_comics": 22, "name": "Iron Man (Ultimate)"}
+{"num_comics": 0, "name": "Iron Man/Tony Stark (MAA)"}
+{"num_comics": 0, "name": "Iron Monger"}
+{"num_comics": 0, "name": "Iron Patriot"}
+{"num_comics": 74, "name": "Iron Patriot (James Rhodes)"}
+{"num_comics": 0, "name": "Ironclad"}
+{"num_comics": 103, "name": "J. Jonah Jameson"}
+{"num_comics": 0, "name": "Jack Flag"}
+{"num_comics": 0, "name": "Jack Murdock"}
+{"num_comics": 0, "name": "Jack O' Lantern"}
+{"num_comics": 1, "name": "Jack Power"}
+{"num_comics": 15, "name": "Jackal"}
+{"num_comics": 6, "name": "Jackpot"}
+{"num_comics": 0, "name": "James Buchanan Barnes"}
+{"num_comics": 0, "name": "James Howlett"}
+{"num_comics": 1, "name": "Jamie Braddock"}
+{"num_comics": 14, "name": "Jane Foster"}
+{"num_comics": 0, "name": "Janus, the Nega-Man"}
+{"num_comics": 19, "name": "Jasper Sitwell"}
+{"num_comics": 0, "name": "Jazinda"}
+{"num_comics": 90, "name": "Jean Grey"}
+{"num_comics": 44, "name": "Jean Grey (Ultimate)"}
+{"num_comics": 0, "name": "Jennifer Smith"}
+{"num_comics": 4, "name": "Jeryn Hogarth"}
+{"num_comics": 0, "name": "Jessica Drew"}
+{"num_comics": 40, "name": "Jessica Jones"}
+{"num_comics": 1, "name": "Jetstream"}
+{"num_comics": 8, "name": "Jigsaw"}
+{"num_comics": 6, "name": "Jimmy Woo"}
+{"num_comics": 0, "name": "Joan the Mouse"}
+{"num_comics": 54, "name": "Jocasta"}
+{"num_comics": 0, "name": "John Farson"}
+{"num_comics": 0, "name": "John Jameson"}
+{"num_comics": 0, "name": "John Porter"}
+{"num_comics": 0, "name": "John Wraith"}
+{"num_comics": 0, "name": "Johnny Blaze"}
+{"num_comics": 0, "name": "Johnny Storm"}
+{"num_comics": 36, "name": "Joseph"}
+{"num_comics": 0, "name": "Joshua Kane"}
+{"num_comics": 2, "name": "Josiah X"}
+{"num_comics": 4, "name": "Joystick"}
+{"num_comics": 167, "name": "Jubilee"}
+{"num_comics": 0, "name": "Jubilee (Age of Apocalypse)"}
+{"num_comics": 151, "name": "Juggernaut"}
+{"num_comics": 0, "name": "Jule Carpenter"}
+{"num_comics": 0, "name": "Julian Keller"}
+{"num_comics": 1, "name": "Junta"}
+{"num_comics": 64, "name": "Justice"}
+{"num_comics": 0, "name": "Justin Hammer"}
+{"num_comics": 44, "name": "Ka-Zar"}
+{"num_comics": 11, "name": "Kabuki"}
+{"num_comics": 67, "name": "Kang"}
+{"num_comics": 0, "name": "Karen O'Malley"}
+{"num_comics": 6, "name": "Karen Page"}
+{"num_comics": 7, "name": "Karma"}
+{"num_comics": 43, "name": "Karnak"}
+{"num_comics": 6, "name": "Karolina Dean "}
+{"num_comics": 5, "name": "Kat Farrell"}
+{"num_comics": 0, "name": "Kate Bishop"}
+{"num_comics": 1, "name": "Katie Power"}
+{"num_comics": 0, "name": "Ken Ellis"}
+{"num_comics": 0, "name": "Khan"}
+{"num_comics": 9, "name": "Kid Colt"}
+{"num_comics": 0, "name": "Killer Shrike"}
+{"num_comics": 0, "name": "Killmonger"}
+{"num_comics": 30, "name": "Killraven"}
+{"num_comics": 2, "name": "King Bedlam"}
+{"num_comics": 0, "name": "King Cobra"}
+{"num_comics": 102, "name": "Kingpin"}
+{"num_comics": 0, "name": "Kinsey Walden"}
+{"num_comics": 150, "name": "Kitty Pryde"}
+{"num_comics": 0, "name": "Kitty Pryde (X-Men: Battle of the Atom)"}
+{"num_comics": 29, "name": "Klaw"}
+{"num_comics": 12, "name": "Komodo (Melati Kusuma)"}
+{"num_comics": 0, "name": "Korath"}
+{"num_comics": 4, "name": "Korg"}
+{"num_comics": 5, "name": "Korvac"}
+{"num_comics": 24, "name": "Kraven the Hunter"}
+{"num_comics": 1, "name": "Kree"}
+{"num_comics": 0, "name": "Krista Starr"}
+{"num_comics": 0, "name": "Kronos"}
+{"num_comics": 4, "name": "Kulan Gath"}
+{"num_comics": 0, "name": "Kylun"}
+{"num_comics": 2, "name": "La Nuit"}
+{"num_comics": 5, "name": "Lady Bullseye"}
+{"num_comics": 49, "name": "Lady Deathstrike"}
+{"num_comics": 0, "name": "Lady Mastermind"}
+{"num_comics": 0, "name": "Lady Ursula"}
+{"num_comics": 0, "name": "Lady Vermin"}
+{"num_comics": 0, "name": "Lake"}
+{"num_comics": 0, "name": "Landau"}
+{"num_comics": 0, "name": "Lava-Man"}
+{"num_comics": 5, "name": "Layla Miller"}
+{"num_comics": 28, "name": "Leader"}
+{"num_comics": 4, "name": "Leech"}
+{"num_comics": 38, "name": "Legion"}
+{"num_comics": 5, "name": "Lei Kung, The Thunderer"}
+{"num_comics": 0, "name": "Lenny Balinger"}
+{"num_comics": 0, "name": "Leo (Zodiac)"}
+{"num_comics": 0, "name": "Leopardon"}
+{"num_comics": 0, "name": "Leper Queen"}
+{"num_comics": 0, "name": "Lester"}
+{"num_comics": 1, "name": "Lethal Legion"}
+{"num_comics": 1, "name": "Lieutenant Marcus Stone"}
+{"num_comics": 4, "name": "Lifeguard"}
+{"num_comics": 1, "name": "Lightning Lords of Nepal"}
+{"num_comics": 2, "name": "Lightspeed"}
+{"num_comics": 5, "name": "Lila Cheney"}
+{"num_comics": 93, "name": "Lilandra"}
+{"num_comics": 6, "name": "Lilith"}
+{"num_comics": 7, "name": "Lily Hollister"}
+{"num_comics": 0, "name": "Lionheart"}
+{"num_comics": 18, "name": "Living Lightning"}
+{"num_comics": 2, "name": "Living Mummy"}
+{"num_comics": 2, "name": "Living Tribunal"}
+{"num_comics": 2, "name": "Liz Osborn"}
+{"num_comics": 54, "name": "Lizard"}
+{"num_comics": 2, "name": "Lizard (Ultimate)"}
+{"num_comics": 5, "name": "Loa"}
+{"num_comics": 54, "name": "Lockheed"}
+{"num_comics": 28, "name": "Lockjaw"}
+{"num_comics": 0, "name": "Logan"}
+{"num_comics": 187, "name": "Loki"}
+{"num_comics": 0, "name": "Loki (LEGO Marvel Super Heroes)"}
+{"num_comics": 1, "name": "Loners"}
+{"num_comics": 69, "name": "Longshot"}
+{"num_comics": 0, "name": "Longshot (Ultimate)"}
+{"num_comics": 0, "name": "Lord Hawal"}
+{"num_comics": 0, "name": "Lord Tyger"}
+{"num_comics": 1, "name": "Lords of Avalon"}
+{"num_comics": 0, "name": "Lorna Dane"}
+{"num_comics": 0, "name": "Luckman"}
+{"num_comics": 1, "name": "Lucky Pierre"}
+{"num_comics": 0, "name": "Lucy in the Sky"}
+{"num_comics": 104, "name": "Luke Cage"}
+{"num_comics": 0, "name": "Luminals"}
+{"num_comics": 3, "name": "Lyja"}
+{"num_comics": 8, "name": "M (Monet St. Croix)"}
+{"num_comics": 1, "name": "M.O.D.A.M."}
+{"num_comics": 0, "name": "M.O.D.O.G."}
+{"num_comics": 13, "name": "M.O.D.O.K."}
+{"num_comics": 0, "name": "M.O.D.O.K. (Iron Man 3 - The Official Game)"}
+{"num_comics": 0, "name": "Ma Gnuci"}
+{"num_comics": 0, "name": "Mac Gargan"}
+{"num_comics": 3, "name": "Mach IV"}
+{"num_comics": 35, "name": "Machine Man"}
+{"num_comics": 16, "name": "Mad Thinker"}
+{"num_comics": 0, "name": "Madame Hydra"}
+{"num_comics": 6, "name": "Madame Masque"}
+{"num_comics": 0, "name": "Madame Web (Julia Carpenter)"}
+{"num_comics": 2, "name": "Maddog"}
+{"num_comics": 4, "name": "Madelyne Pryor"}
+{"num_comics": 0, "name": "Madripoor"}
+{"num_comics": 18, "name": "Madrox"}
+{"num_comics": 1, "name": "Maelstrom"}
+{"num_comics": 0, "name": "Maestro"}
+{"num_comics": 5, "name": "Magdalene"}
+{"num_comics": 21, "name": "Maggott"}
+{"num_comics": 2, "name": "Magik (Amanda Sefton)"}
+{"num_comics": 16, "name": "Magik (Illyana Rasputin)"}
+{"num_comics": 0, "name": "Maginty"}
+{"num_comics": 34, "name": "Magma (Amara Aquilla)"}
+{"num_comics": 249, "name": "Magneto"}
+{"num_comics": 5, "name": "Magneto (Age of Apocalypse)"}
+{"num_comics": 4, "name": "Magneto (House of M)"}
+{"num_comics": 32, "name": "Magneto (Ultimate)"}
+{"num_comics": 0, "name": "Magneto (X-Men: Battle of the Atom)"}
+{"num_comics": 0, "name": "Magus (Adam Warlock)"}
+{"num_comics": 1, "name": "Magus (Technarch)"}
+{"num_comics": 2, "name": "Major Mapleleaf"}
+{"num_comics": 7, "name": "Makkari"}
+{"num_comics": 0, "name": "Malcolm Colcord"}
+{"num_comics": 0, "name": "Malice (Earth-161)"}
+{"num_comics": 57, "name": "Man-Thing"}
+{"num_comics": 15, "name": "Man-Wolf"}
+{"num_comics": 45, "name": "Mandarin"}
+{"num_comics": 0, "name": "Mandrill"}
+{"num_comics": 3, "name": "Mandroid"}
+{"num_comics": 8, "name": "Manta"}
+{"num_comics": 9, "name": "Mantis"}
+{"num_comics": 4, "name": "Marauders"}
+{"num_comics": 0, "name": "Marcus Van Sciver"}
+{"num_comics": 22, "name": "Maria Hill"}
+{"num_comics": 1, "name": "Mariko Yashida"}
+{"num_comics": 75, "name": "Marrow"}
+{"num_comics": 0, "name": "Marten Broadcloak"}
+{"num_comics": 0, "name": "Martin Li"}
+{"num_comics": 10, "name": "Marvel Apes"}
+{"num_comics": 40, "name": "Marvel Boy"}
+{"num_comics": 6, "name": "Marvel Zombies"}
+{"num_comics": 5, "name": "Marvex"}
+{"num_comics": 92, "name": "Mary Jane Watson"}
+{"num_comics": 2, "name": "Mary Jane Watson (House of M)"}
+{"num_comics": 10, "name": "Mary Jane Watson (Ultimate)"}
+{"num_comics": 3, "name": "Masked Marvel (Unrevealed)"}
+{"num_comics": 30, "name": "Masque"}
+{"num_comics": 4, "name": "Master Chief"}
+{"num_comics": 8, "name": "Master Mold"}
+{"num_comics": 45, "name": "Mastermind"}
+{"num_comics": 2, "name": "Masters of Evil"}
+{"num_comics": 0, "name": "Mathemanic"}
+{"num_comics": 0, "name": "Matsu'o Tsurayaba"}
+{"num_comics": 0, "name": "Matthew Murdock"}
+{"num_comics": 0, "name": "Mattie Franklin"}
+{"num_comics": 1, "name": "Mauler"}
+{"num_comics": 0, "name": "Maverick (Chris Bradley)"}
+{"num_comics": 0, "name": "Maverick (Christoph Nord)"}
+{"num_comics": 0, "name": "Maximus"}
+{"num_comics": 56, "name": "May Parker"}
+{"num_comics": 70, "name": "Medusa"}
+{"num_comics": 2, "name": "Meggan"}
+{"num_comics": 67, "name": "Meltdown"}
+{"num_comics": 29, "name": "Menace"}
+{"num_comics": 1, "name": "Mentallo"}
+{"num_comics": 0, "name": "Mentor"}
+{"num_comics": 53, "name": "Mephisto"}
+{"num_comics": 0, "name": "Mephistopheles"}
+{"num_comics": 13, "name": "Mercury"}
+{"num_comics": 19, "name": "Mesmero"}
+{"num_comics": 0, "name": "Metal Master"}
+{"num_comics": 1, "name": "Meteorite"}
+{"num_comics": 0, "name": "MI: 13"}
+{"num_comics": 0, "name": "Micro/Macro"}
+{"num_comics": 3, "name": "Microbe"}
+{"num_comics": 4, "name": "Microchip"}
+{"num_comics": 2, "name": "Micromax"}
+{"num_comics": 0, "name": "Midnight (Earth-811)"}
+{"num_comics": 2, "name": "Miek"}
+{"num_comics": 0, "name": "Mikhail Rasputin"}
+{"num_comics": 0, "name": "Millenium Guard"}
+{"num_comics": 25, "name": "Millie the Model"}
+{"num_comics": 35, "name": "Mimic"}
+{"num_comics": 0, "name": "Mindworm"}
+{"num_comics": 0, "name": "Miracleman"}
+{"num_comics": 41, "name": "Miss America"}
+{"num_comics": 1, "name": "Mister Fear"}
+{"num_comics": 52, "name": "Mister Sinister"}
+{"num_comics": 0, "name": "Mister Sinister (Deadpool)"}
+{"num_comics": 0, "name": "Mister Sinister (House of M)"}
+{"num_comics": 0, "name": "Mister Sinister (Ultimate)"}
+{"num_comics": 30, "name": "Misty Knight"}
+{"num_comics": 35, "name": "Mockingbird"}
+{"num_comics": 7, "name": "Moira MacTaggert"}
+{"num_comics": 0, "name": "Moira MacTaggert (Ultimate)"}
+{"num_comics": 32, "name": "Mojo"}
+{"num_comics": 44, "name": "Mole Man"}
+{"num_comics": 0, "name": "Molecule Man"}
+{"num_comics": 10, "name": "Molly Hayes"}
+{"num_comics": 0, "name": "Molly Von Richtofen"}
+{"num_comics": 2, "name": "Molten Man"}
+{"num_comics": 1, "name": "Mongoose"}
+{"num_comics": 0, "name": "Mongu (Unrevealed)"}
+{"num_comics": 0, "name": "Monster Badoon"}
+{"num_comics": 110, "name": "Moon Knight"}
+{"num_comics": 0, "name": "Moon Knight (House of M)"}
+{"num_comics": 2, "name": "Moon Knight (Ultimate)"}
+{"num_comics": 17, "name": "Moondragon"}
+{"num_comics": 20, "name": "Moonstone"}
+{"num_comics": 45, "name": "Morbius"}
+{"num_comics": 0, "name": "Mordo"}
+{"num_comics": 5, "name": "Morg"}
+{"num_comics": 5, "name": "Morgan Stark"}
+{"num_comics": 1, "name": "Morlocks"}
+{"num_comics": 2, "name": "Morlun"}
+{"num_comics": 21, "name": "Morph"}
+{"num_comics": 6, "name": "Mother Askani"}
+{"num_comics": 0, "name": "Mr. Bumpo"}
+{"num_comics": 419, "name": "Mr. Fantastic"}
+{"num_comics": 19, "name": "Mr. Fantastic (Ultimate)"}
+{"num_comics": 0, "name": "Mr. Fish"}
+{"num_comics": 3, "name": "Mr. Fixit"}
+{"num_comics": 18, "name": "Mr. Hyde"}
+{"num_comics": 4, "name": "Mr. Immortal"}
+{"num_comics": 0, "name": "Mr. Meugniot"}
+{"num_comics": 17, "name": "Mr. Negative"}
+{"num_comics": 0, "name": "Mr. Payback"}
+{"num_comics": 6, "name": "Mr. X"}
+{"num_comics": 0, "name": "Ms. Marvel (Kamala Khan)"}
+{"num_comics": 0, "name": "MS2"}
+{"num_comics": 0, "name": "Mulholland Black"}
+{"num_comics": 10, "name": "Multiple Man"}
+{"num_comics": 3, "name": "MVP"}
+{"num_comics": 41, "name": "Mysterio"}
+{"num_comics": 0, "name": "Mysterio (Daniel Berkhart)"}
+{"num_comics": 2, "name": "Mysterio (Francis Klum)"}
+{"num_comics": 119, "name": "Mystique"}
+{"num_comics": 0, "name": "Mystique (Age of Apocalypse)"}
+{"num_comics": 1, "name": "Mystique (House of M)"}
+{"num_comics": 3, "name": "Mystique (Ultimate)"}
+{"num_comics": 3, "name": "Namor"}
+{"num_comics": 34, "name": "Namora"}
+{"num_comics": 30, "name": "Namorita"}
+{"num_comics": 0, "name": "Naoko"}
+{"num_comics": 0, "name": "Natasha Romanoff"}
+{"num_comics": 8, "name": "Nebula"}
+{"num_comics": 0, "name": "Nehzno"}
+{"num_comics": 0, "name": "Nekra"}
+{"num_comics": 4, "name": "Nemesis"}
+{"num_comics": 0, "name": "Network"}
+{"num_comics": 0, "name": "New Goblin"}
+{"num_comics": 200, "name": "New Mutants"}
+{"num_comics": 38, "name": "New Warriors"}
+{"num_comics": 0, "name": "New X-Men"}
+{"num_comics": 3, "name": "Newton Destine"}
+{"num_comics": 0, "name": "Next Avengers"}
+{"num_comics": 0, "name": "Nextwave"}
+{"num_comics": 282, "name": "Nick Fury"}
+{"num_comics": 0, "name": "Nick Fury (LEGO Marvel Super Heroes)"}
+{"num_comics": 32, "name": "Nick Fury (Ultimate)"}
+{"num_comics": 8, "name": "Nico Minoru"}
+{"num_comics": 6, "name": "Nicolaos"}
+{"num_comics": 0, "name": "Night Nurse (Earth-9997)"}
+{"num_comics": 13, "name": "Night Thrasher"}
+{"num_comics": 442, "name": "Nightcrawler"}
+{"num_comics": 19, "name": "Nightcrawler (Ultimate)"}
+{"num_comics": 29, "name": "Nighthawk"}
+{"num_comics": 27, "name": "Nightmare"}
+{"num_comics": 0, "name": "Nightshade"}
+{"num_comics": 1, "name": "Nine-Fold Daughters of Xao"}
+{"num_comics": 3, "name": "Nitro"}
+{"num_comics": 19, "name": "Nocturne"}
+{"num_comics": 12, "name": "Nomad"}
+{"num_comics": 5, "name": "Nomad (Rikki Barnes)"}
+{"num_comics": 0, "name": "Nomad (Steve Rogers)"}
+{"num_comics": 125, "name": "Norman Osborn"}
+{"num_comics": 0, "name": "Norrin Radd"}
+{"num_comics": 67, "name": "Northstar"}
+{"num_comics": 125, "name": "Nova"}
+{"num_comics": 0, "name": "Nova (Frankie Raye)"}
+{"num_comics": 0, "name": "Nova (Sam Alexander)"}
+{"num_comics": 0, "name": "Nova (USM)"}
+{"num_comics": 6, "name": "Nuke"}
+{"num_comics": 1, "name": "Obadiah Stane"}
+{"num_comics": 143, "name": "Odin"}
+{"num_comics": 7, "name": "Ogun"}
+{"num_comics": 10, "name": "Old Lace"}
+{"num_comics": 6, "name": "Omega Flight"}
+{"num_comics": 20, "name": "Omega Red"}
+{"num_comics": 0, "name": "Omega Sentinel"}
+{"num_comics": 5, "name": "Omega the Unknown"}
+{"num_comics": 33, "name": "Onslaught"}
+{"num_comics": 0, "name": "Onslaught (Ultimate)"}
+{"num_comics": 19, "name": "Oracle"}
+{"num_comics": 11, "name": "Ord"}
+{"num_comics": 14, "name": "Orphan"}
+{"num_comics": 0, "name": "Orphan-Maker"}
+{"num_comics": 0, "name": "Otto Octavius"}
+{"num_comics": 3, "name": "Outlaw Kid"}
+{"num_comics": 0, "name": "Overlord"}
+{"num_comics": 1, "name": "Owl"}
+{"num_comics": 15, "name": "Ozymandias"}
+{"num_comics": 0, "name": "Paibok"}
+{"num_comics": 17, "name": "Paladin"}
+{"num_comics": 2, "name": "Pandemic"}
+{"num_comics": 2, "name": "Paper Doll"}
+{"num_comics": 0, "name": "Patch"}
+{"num_comics": 73, "name": "Patriot"}
+{"num_comics": 0, "name": "Payback"}
+{"num_comics": 64, "name": "Penance (Robert Baldwin)"}
+{"num_comics": 27, "name": "Pepper Potts"}
+{"num_comics": 9, "name": "Pestilence"}
+{"num_comics": 7, "name": "Pet Avengers"}
+{"num_comics": 6, "name": "Pete Wisdom"}
+{"num_comics": 0, "name": "Peter Parker"}
+{"num_comics": 0, "name": "Peter Quill"}
+{"num_comics": 0, "name": "Phalanx"}
+{"num_comics": 3, "name": "Phantom Reporter"}
+{"num_comics": 0, "name": "Phil Sheldon"}
+{"num_comics": 31, "name": "Photon"}
+{"num_comics": 0, "name": "Phyla-Vell"}
+{"num_comics": 6, "name": "Piledriver"}
+{"num_comics": 3, "name": "Pip"}
+{"num_comics": 6, "name": "Pixie"}
+{"num_comics": 2, "name": "Plazm"}
+{"num_comics": 194, "name": "Polaris"}
+{"num_comics": 12, "name": "Post"}
+{"num_comics": 0, "name": "Power Man (USM)"}
+{"num_comics": 42, "name": "Power Pack"}
+{"num_comics": 0, "name": "Praxagora"}
+{"num_comics": 0, "name": "Preak"}
+{"num_comics": 3, "name": "Pretty Boy"}
+{"num_comics": 2, "name": "Pride"}
+{"num_comics": 0, "name": "Prima"}
+{"num_comics": 7, "name": "Prince of Orphans"}
+{"num_comics": 0, "name": "Princess Powerful"}
+{"num_comics": 3, "name": "Prism"}
+{"num_comics": 9, "name": "Prodigy"}
+{"num_comics": 0, "name": "Proemial Gods"}
+{"num_comics": 0, "name": "Professor Monster"}
+{"num_comics": 300, "name": "Professor X"}
+{"num_comics": 2, "name": "Professor X (Ultimate)"}
+{"num_comics": 9, "name": "Proteus"}
+{"num_comics": 0, "name": "Proteus (House of M)"}
+{"num_comics": 6, "name": "Proteus (Ultimate)"}
+{"num_comics": 1, "name": "Proudstar"}
+{"num_comics": 15, "name": "Prowler"}
+{"num_comics": 0, "name": "Prowler (Rick Lawson)"}
+{"num_comics": 8, "name": "Psycho-Man"}
+{"num_comics": 257, "name": "Psylocke"}
+{"num_comics": 4, "name": "PsyNapse"}
+{"num_comics": 49, "name": "Puck"}
+{"num_comics": 2, "name": "Puck (Zuzha Yu)"}
+{"num_comics": 0, "name": "Puff Adder"}
+{"num_comics": 0, "name": "pug"}
+{"num_comics": 20, "name": "Puma"}
+{"num_comics": 387, "name": "Punisher"}
+{"num_comics": 2, "name": "Punisher (2099)"}
+{"num_comics": 0, "name": "Punisher (Marvel: Avengers Alliance)"}
+{"num_comics": 26, "name": "Puppet Master"}
+{"num_comics": 5, "name": "Purifiers"}
+{"num_comics": 4, "name": "Purple Man"}
+{"num_comics": 39, "name": "Pyro"}
+{"num_comics": 98, "name": "Quasar (Phyla-Vell)"}
+{"num_comics": 8, "name": "Quasar (Wendell Vaughn)"}
+{"num_comics": 8, "name": "Quasimodo"}
+{"num_comics": 0, "name": "Queen Noir"}
+{"num_comics": 0, "name": "Quentin Quire"}
+{"num_comics": 214, "name": "Quicksilver"}
+{"num_comics": 0, "name": "Quicksilver (Age of Apocalypse)"}
+{"num_comics": 25, "name": "Quicksilver (Ultimate)"}
+{"num_comics": 40, "name": "Rachel Grey"}
+{"num_comics": 19, "name": "Radioactive Man"}
+{"num_comics": 0, "name": "Rafael Vega"}
+{"num_comics": 17, "name": "Rage"}
+{"num_comics": 0, "name": "Raider"}
+{"num_comics": 7, "name": "Randall"}
+{"num_comics": 1, "name": "Randall Flagg"}
+{"num_comics": 3, "name": "Random"}
+{"num_comics": 0, "name": "Rattler"}
+{"num_comics": 0, "name": "Ravenous"}
+{"num_comics": 120, "name": "Rawhide Kid"}
+{"num_comics": 35, "name": "Raza"}
+{"num_comics": 10, "name": "Reaper"}
+{"num_comics": 14, "name": "Reavers"}
+{"num_comics": 2, "name": "Reavers (Ultimate)"}
+{"num_comics": 0, "name": "Red 9"}
+{"num_comics": 6, "name": "Red Ghost"}
+{"num_comics": 0, "name": "Red Ghost (Ultimate)"}
+{"num_comics": 48, "name": "Red Hulk"}
+{"num_comics": 0, "name": "Red Hulk (HAS)"}
+{"num_comics": 15, "name": "Red She-Hulk"}
+{"num_comics": 0, "name": "Red Shift"}
+{"num_comics": 112, "name": "Red Skull"}
+{"num_comics": 0, "name": "Red Skull (Albert Malik)"}
+{"num_comics": 13, "name": "Red Wolf"}
+{"num_comics": 4, "name": "Redwing"}
+{"num_comics": 31, "name": "Reptil"}
+{"num_comics": 1, "name": "Retro Girl"}
+{"num_comics": 0, "name": "Revanche"}
+{"num_comics": 29, "name": "Rhino"}
+{"num_comics": 0, "name": "Rhodey"}
+{"num_comics": 0, "name": "Richard Fisk"}
+{"num_comics": 34, "name": "Rick Jones"}
+{"num_comics": 0, "name": "Rick Jones (Ultimate)"}
+{"num_comics": 0, "name": "Ricochet"}
+{"num_comics": 90, "name": "Rictor"}
+{"num_comics": 8, "name": "Riptide"}
+{"num_comics": 12, "name": "Risque"}
+{"num_comics": 11, "name": "Robbie Robertson"}
+{"num_comics": 0, "name": "Robert Baldwin "}
+{"num_comics": 0, "name": "Robin Chapel"}
+{"num_comics": 21, "name": "Rocket Raccoon"}
+{"num_comics": 0, "name": "Rocket Raccoon (Marvel Heroes)"}
+{"num_comics": 0, "name": "Rocket Racer"}
+{"num_comics": 11, "name": "Rockslide"}
+{"num_comics": 414, "name": "Rogue"}
+{"num_comics": 5, "name": "Rogue (Age of Apocalypse)"}
+{"num_comics": 0, "name": "Rogue (Deadpool)"}
+{"num_comics": 9, "name": "Rogue (Ultimate)"}
+{"num_comics": 0, "name": "Rogue (X-Men: Battle of the Atom)"}
+{"num_comics": 10, "name": "Roland Deschain"}
+{"num_comics": 0, "name": "Romulus"}
+{"num_comics": 21, "name": "Ronan"}
+{"num_comics": 0, "name": "Roughhouse"}
+{"num_comics": 1, "name": "Roulette"}
+{"num_comics": 0, "name": "Roxanne Simpson"}
+{"num_comics": 3, "name": "Rumiko Fujikawa"}
+{"num_comics": 82, "name": "Runaways"}
+{"num_comics": 0, "name": "Russian"}
+{"num_comics": 62, "name": "S.H.I.E.L.D."}
+{"num_comics": 14, "name": "Sabra"}
+{"num_comics": 161, "name": "Sabretooth"}
+{"num_comics": 16, "name": "Sabretooth (Age of Apocalypse)"}
+{"num_comics": 0, "name": "Sabretooth (House of M)"}
+{"num_comics": 15, "name": "Sabretooth (Ultimate)"}
+{"num_comics": 6, "name": "Sage"}
+{"num_comics": 0, "name": "Salem's Seven (Ultimate)"}
+{"num_comics": 0, "name": "Sally Floyd"}
+{"num_comics": 0, "name": "Salo"}
+{"num_comics": 62, "name": "Sandman"}
+{"num_comics": 3, "name": "Santa Claus"}
+{"num_comics": 0, "name": "Saracen (Muzzafar Lambert)"}
+{"num_comics": 77, "name": "Sasquatch (Walter Langkowski)"}
+{"num_comics": 11, "name": "Satana"}
+{"num_comics": 40, "name": "Sauron"}
+{"num_comics": 0, "name": "Scalphunter"}
+{"num_comics": 9, "name": "Scarecrow (Ebenezer Laughton)"}
+{"num_comics": 6, "name": "Scarlet Spider (Ben Reilly)"}
+{"num_comics": 20, "name": "Scarlet Spider (Kaine)"}
+{"num_comics": 261, "name": "Scarlet Witch"}
+{"num_comics": 0, "name": "Scarlet Witch (Age of Apocalypse)"}
+{"num_comics": 0, "name": "Scarlet Witch (Marvel Heroes)"}
+{"num_comics": 30, "name": "Scarlet Witch (Ultimate)"}
+{"num_comics": 5, "name": "Scorpion (Carmilla Black)"}
+{"num_comics": 2, "name": "Scorpion (Ultimate)"}
+{"num_comics": 7, "name": "Scourge"}
+{"num_comics": 0, "name": "Scrambler"}
+{"num_comics": 0, "name": "Scream (Donna Diego)"}
+{"num_comics": 7, "name": "Screwball"}
+{"num_comics": 16, "name": "Sebastian Shaw"}
+{"num_comics": 39, "name": "Secret Warriors"}
+{"num_comics": 18, "name": "Selene"}
+{"num_comics": 1, "name": "Senator Kelly"}
+{"num_comics": 52, "name": "Sentinel"}
+{"num_comics": 15, "name": "Sentinels"}
+{"num_comics": 61, "name": "Sentry (Robert Reynolds)"}
+{"num_comics": 1, "name": "Ser Duncan"}
+{"num_comics": 5, "name": "Serpent Society"}
+{"num_comics": 26, "name": "Sersi"}
+{"num_comics": 14, "name": "Shadow King"}
+{"num_comics": 0, "name": "Shadow King (Age of Apocalypse)"}
+{"num_comics": 0, "name": "Shadowcat"}
+{"num_comics": 6, "name": "Shadowcat (Age of Apocalypse)"}
+{"num_comics": 0, "name": "Shadowcat (Ultimate)"}
+{"num_comics": 1, "name": "Shadu the Shady"}
+{"num_comics": 1, "name": "Shalla-bal"}
+{"num_comics": 47, "name": "Shaman"}
+{"num_comics": 0, "name": "Shane Yamada-Jones"}
+{"num_comics": 20, "name": "Shang-Chi"}
+{"num_comics": 3, "name": "Shang-Chi (Ultimate)"}
+{"num_comics": 30, "name": "Shanna the She-Devil"}
+{"num_comics": 5, "name": "Shape"}
+{"num_comics": 29, "name": "Shard"}
+{"num_comics": 44, "name": "Sharon Carter"}
+{"num_comics": 2, "name": "Sharon Ventura"}
+{"num_comics": 97, "name": "Shatterstar"}
+{"num_comics": 0, "name": "She-Hulk (HAS)"}
+{"num_comics": 300, "name": "She-Hulk (Jennifer Walters)"}
+{"num_comics": 10, "name": "She-Hulk (Lyra)"}
+{"num_comics": 0, "name": "She-Hulk (Marvel War of Heroes)"}
+{"num_comics": 1, "name": "She-Hulk (Ultimate)"}
+{"num_comics": 0, "name": "Shen"}
+{"num_comics": 0, "name": "Sheva Callister"}
+{"num_comics": 1, "name": "Shi'Ar"}
+{"num_comics": 0, "name": "Shinko Yamashiro"}
+{"num_comics": 2, "name": "Shinobi Shaw"}
+{"num_comics": 4, "name": "Shiva"}
+{"num_comics": 1, "name": "Shiver Man"}
+{"num_comics": 19, "name": "Shocker (Herman Schultz)"}
+{"num_comics": 0, "name": "Shockwave"}
+{"num_comics": 2, "name": "Shooting Star"}
+{"num_comics": 4, "name": "Shotgun"}
+{"num_comics": 5, "name": "Shriek"}
+{"num_comics": 129, "name": "Sif"}
+{"num_comics": 2, "name": "Silhouette"}
+{"num_comics": 0, "name": "Silk Fever"}
+{"num_comics": 0, "name": "Silver Centurion"}
+{"num_comics": 12, "name": "Silver Fox"}
+{"num_comics": 17, "name": "Silver Sable"}
+{"num_comics": 24, "name": "Silver Samurai"}
+{"num_comics": 9, "name": "Silver Samurai (Age of Apocalypse)"}
+{"num_comics": 353, "name": "Silver Surfer"}
+{"num_comics": 20, "name": "Silverclaw"}
+{"num_comics": 12, "name": "Silvermane"}
+{"num_comics": 43, "name": "Sin"}
+{"num_comics": 6, "name": "Sinister Six"}
+{"num_comics": 0, "name": "Sir Ram"}
+{"num_comics": 0, "name": "Siren (Earth-93060)"}
+{"num_comics": 0, "name": "Sister Grimm"}
+{"num_comics": 13, "name": "Skaar"}
+{"num_comics": 0, "name": "Skaar (HAS)"}
+{"num_comics": 12, "name": "Skin"}
+{"num_comics": 0, "name": "Skreet"}
+{"num_comics": 38, "name": "Skrulls"}
+{"num_comics": 2, "name": "Skrulls (Ultimate)"}
+{"num_comics": 4, "name": "Skullbuster (Cylla Markham)"}
+{"num_comics": 6, "name": "Slapstick"}
+{"num_comics": 0, "name": "Slayback"}
+{"num_comics": 3, "name": "Sleeper"}
+{"num_comics": 0, "name": "Sleepwalker"}
+{"num_comics": 2, "name": "Slipstream"}
+{"num_comics": 0, "name": "Slyde"}
+{"num_comics": 17, "name": "Smasher (Vril Rokk)"}
+{"num_comics": 0, "name": "Smiling Tiger"}
+{"num_comics": 37, "name": "Snowbird"}
+{"num_comics": 2, "name": "Solo (James Bourne)"}
+{"num_comics": 26, "name": "Songbird"}
+{"num_comics": 0, "name": "Sons of the Tiger"}
+{"num_comics": 0, "name": "Spacker Dave"}
+{"num_comics": 4, "name": "Spectrum"}
+{"num_comics": 2, "name": "Speed"}
+{"num_comics": 8, "name": "Speed Demon"}
+{"num_comics": 0, "name": "Speedball (Robert Baldwin)"}
+{"num_comics": 4, "name": "Spencer Smythe"}
+{"num_comics": 0, "name": "Sphinx (Anath-Na Mut)"}
+{"num_comics": 0, "name": "Spider-dok"}
+{"num_comics": 34, "name": "Spider-Girl (Anya Corazon)"}
+{"num_comics": 160, "name": "Spider-Girl (May Parker)"}
+{"num_comics": 3, "name": "Spider-Ham (Larval Earth)"}
+{"num_comics": 2575, "name": "Spider-Man"}
+{"num_comics": 49, "name": "Spider-Man (1602)"}
+{"num_comics": 1, "name": "Spider-Man (2099)"}
+{"num_comics": 1, "name": "Spider-Man (Ai Apaec)"}
+{"num_comics": 0, "name": "Spider-Man (Ben Reilly)"}
+{"num_comics": 0, "name": "Spider-Man (House of M)"}
+{"num_comics": 0, "name": "Spider-Man (LEGO Marvel Super Heroes)"}
+{"num_comics": 1, "name": "Spider-Man (Marvel Zombies)"}
+{"num_comics": 0, "name": "Spider-Man (Marvel: Avengers Alliance)"}
+{"num_comics": 14, "name": "Spider-Man (Miles Morales)"}
+{"num_comics": 2, "name": "Spider-Man (Noir)"}
+{"num_comics": 0, "name": "Spider-Man (Takuya Yamashiro)"}
+{"num_comics": 229, "name": "Spider-Man (Ultimate)"}
+{"num_comics": 9, "name": "Spider-Woman (Charlotte Witter)"}
+{"num_comics": 95, "name": "Spider-Woman (Jessica Drew)"}
+{"num_comics": 5, "name": "Spider-Woman (Mattie Franklin)"}
+{"num_comics": 40, "name": "Spiral (Rita Wayword)"}
+{"num_comics": 0, "name": "Spirit"}
+{"num_comics": 14, "name": "Spitfire"}
+{"num_comics": 3, "name": "Spot"}
+{"num_comics": 0, "name": "Sprite"}
+{"num_comics": 0, "name": "Spyke"}
+{"num_comics": 48, "name": "Squadron Supreme (Earth-712)"}
+{"num_comics": 8, "name": "Squirrel Girl"}
+{"num_comics": 38, "name": "Stacy X"}
+{"num_comics": 4, "name": "Stacy X (Ultimate)"}
+{"num_comics": 20, "name": "Star Brand"}
+{"num_comics": 25, "name": "Star-Lord (Peter Quill)"}
+{"num_comics": 8, "name": "Starbolt"}
+{"num_comics": 0, "name": "Stardust"}
+{"num_comics": 11, "name": "Starfox"}
+{"num_comics": 0, "name": "Starhawk (Stakar Ogord)"}
+{"num_comics": 11, "name": "Starjammers"}
+{"num_comics": 0, "name": "Stark Industries"}
+{"num_comics": 24, "name": "Stature"}
+{"num_comics": 6, "name": "Steel Serpent (Davos)"}
+{"num_comics": 0, "name": "Stellaris"}
+{"num_comics": 13, "name": "Stepford Cuckoos"}
+{"num_comics": 0, "name": "Stephanie de la Spiroza"}
+{"num_comics": 0, "name": "Stephen Strange"}
+{"num_comics": 1, "name": "Steve Rogers"}
+{"num_comics": 10, "name": "Stick"}
+{"num_comics": 0, "name": "Stilt-Man (Wibur Day)"}
+{"num_comics": 25, "name": "Stingray (Walter Newell)"}
+{"num_comics": 0, "name": "Stone Men"}
+{"num_comics": 598, "name": "Storm"}
+{"num_comics": 6, "name": "Storm (Age of Apocalypse)"}
+{"num_comics": 0, "name": "Storm (Marvel Heroes)"}
+{"num_comics": 45, "name": "Storm (Ultimate)"}
+{"num_comics": 4, "name": "Stranger"}
+{"num_comics": 14, "name": "Strong Guy"}
+{"num_comics": 37, "name": "Stryfe"}
+{"num_comics": 0, "name": "Stryfe (Ultimate)"}
+{"num_comics": 537, "name": "Sub-Mariner"}
+{"num_comics": 0, "name": "Sue Storm"}
+{"num_comics": 3, "name": "Sugar Man"}
+{"num_comics": 3, "name": "Sumo"}
+{"num_comics": 68, "name": "Sunfire"}
+{"num_comics": 3, "name": "Sunfire (Age of Apocalypse)"}
+{"num_comics": 5, "name": "Sunset Bain"}
+{"num_comics": 153, "name": "Sunspot"}
+{"num_comics": 16, "name": "Super Hero Squad"}
+{"num_comics": 7, "name": "Super-Adaptoid"}
+{"num_comics": 10, "name": "Super-Skrull"}
+{"num_comics": 0, "name": "Supernaut"}
+{"num_comics": 4, "name": "Supreme Intelligence"}
+{"num_comics": 6, "name": "Surge"}
+{"num_comics": 0, "name": "Susan Delgado"}
+{"num_comics": 1, "name": "Swarm"}
+{"num_comics": 0, "name": "Sway"}
+{"num_comics": 4, "name": "Switch"}
+{"num_comics": 31, "name": "Swordsman"}
+{"num_comics": 2, "name": "Swordsman (Jaques Duquesne)"}
+{"num_comics": 0, "name": "Sym"}
+{"num_comics": 14, "name": "Synch"}
+{"num_comics": 0, "name": "T'Challa"}
+{"num_comics": 2, "name": "Tag"}
+{"num_comics": 9, "name": "Talisman (Elizabeth Twoyoungmen)"}
+{"num_comics": 0, "name": "Talkback (Chase Stein)"}
+{"num_comics": 0, "name": "Talon (Fraternity of Raptors)"}
+{"num_comics": 0, "name": "Talos"}
+{"num_comics": 5, "name": "Tana Nile"}
+{"num_comics": 7, "name": "Tarantula (Luis Alvarez)"}
+{"num_comics": 5, "name": "Tarot"}
+{"num_comics": 46, "name": "Taskmaster"}
+{"num_comics": 0, "name": "Tattoo"}
+{"num_comics": 0, "name": "Ted Forrester"}
+{"num_comics": 14, "name": "Tempest"}
+{"num_comics": 0, "name": "Tenebrous"}
+{"num_comics": 19, "name": "Terrax"}
+{"num_comics": 0, "name": "Terror"}
+{"num_comics": 2, "name": "Texas Twister"}
+{"num_comics": 2, "name": "Thaddeus Ross"}
+{"num_comics": 78, "name": "Thanos"}
+{"num_comics": 2, "name": "Thanos (Ultimate)"}
+{"num_comics": 0, "name": "The 198"}
+{"num_comics": 7, "name": "The Anarchist"}
+{"num_comics": 0, "name": "The Call"}
+{"num_comics": 0, "name": "The Captain"}
+{"num_comics": 1, "name": "The Enforcers"}
+{"num_comics": 0, "name": "The Executioner"}
+{"num_comics": 0, "name": "The Fallen"}
+{"num_comics": 0, "name": "The Fury"}
+{"num_comics": 4, "name": "The Hand"}
+{"num_comics": 0, "name": "The Hood"}
+{"num_comics": 0, "name": "The Howling Commandos"}
+{"num_comics": 0, "name": "The Hunter"}
+{"num_comics": 15, "name": "The Initiative"}
+{"num_comics": 0, "name": "The Leader (HAS)"}
+{"num_comics": 0, "name": "The Liberteens"}
+{"num_comics": 0, "name": "The Liberty Legion"}
+{"num_comics": 12, "name": "The Order"}
+{"num_comics": 0, "name": "The Phantom"}
+{"num_comics": 6, "name": "The Professor"}
+{"num_comics": 0, "name": "The Renegades"}
+{"num_comics": 0, "name": "The Santerians"}
+{"num_comics": 0, "name": "The Shiver Man"}
+{"num_comics": 0, "name": "The Spike"}
+{"num_comics": 10, "name": "The Stranger"}
+{"num_comics": 14, "name": "The Twelve"}
+{"num_comics": 4, "name": "The Watchers"}
+{"num_comics": 2, "name": "Thena"}
+{"num_comics": 413, "name": "Thing"}
+{"num_comics": 0, "name": "Thing (Marvel Heroes)"}
+{"num_comics": 20, "name": "Thing (Ultimate)"}
+{"num_comics": 1240, "name": "Thor"}
+{"num_comics": 0, "name": "Thor (Goddess of Thunder)"}
+{"num_comics": 0, "name": "Thor (MAA)"}
+{"num_comics": 0, "name": "Thor (Marvel Heroes)"}
+{"num_comics": 0, "name": "Thor (Marvel War of Heroes)"}
+{"num_comics": 0, "name": "Thor (Marvel: Avengers Alliance)"}
+{"num_comics": 30, "name": "Thor (Ultimate)"}
+{"num_comics": 13, "name": "Thor Girl"}
+{"num_comics": 6, "name": "Thunderball"}
+{"num_comics": 30, "name": "Thunderbird (John Proudstar)"}
+{"num_comics": 38, "name": "Thunderbird (Neal Shaara)"}
+{"num_comics": 0, "name": "Thunderbolt (Bill Carver)"}
+{"num_comics": 1, "name": "Thunderbolt Ross"}
+{"num_comics": 145, "name": "Thunderbolts"}
+{"num_comics": 2, "name": "Thundra"}
+{"num_comics": 8, "name": "Tiger Shark"}
+{"num_comics": 6, "name": "Tiger's Beautiful Daughter"}
+{"num_comics": 69, "name": "Tigra (Greer Nelson)"}
+{"num_comics": 0, "name": "Timeslip"}
+{"num_comics": 0, "name": "Tinkerer"}
+{"num_comics": 13, "name": "Titania"}
+{"num_comics": 31, "name": "Titanium Man (Topolov)"}
+{"num_comics": 32, "name": "Toad"}
+{"num_comics": 2, "name": "Toad Men"}
+{"num_comics": 0, "name": "Tomas"}
+{"num_comics": 22, "name": "Tombstone"}
+{"num_comics": 0, "name": "Tomorrow Man"}
+{"num_comics": 0, "name": "Tony Stark"}
+{"num_comics": 18, "name": "Toro (Thomas Raymond)"}
+{"num_comics": 7, "name": "Toxin"}
+{"num_comics": 66, "name": "Toxin (Eddie Brock)"}
+{"num_comics": 13, "name": "Trauma"}
+{"num_comics": 38, "name": "Triathlon"}
+{"num_comics": 0, "name": "Trish Tilby"}
+{"num_comics": 34, "name": "Triton"}
+{"num_comics": 5, "name": "True Believers"}
+{"num_comics": 3, "name": "Turbo"}
+{"num_comics": 5, "name": "Tusk"}
+{"num_comics": 133, "name": "Two-Gun Kid"}
+{"num_comics": 0, "name": "Tyger Tiger"}
+{"num_comics": 25, "name": "Typhoid Mary"}
+{"num_comics": 10, "name": "Tyrannus"}
+{"num_comics": 0, "name": "U-Foes"}
+{"num_comics": 14, "name": "U-Go Girl"}
+{"num_comics": 33, "name": "U.S. Agent"}
+{"num_comics": 30, "name": "Uatu The Watcher"}
+{"num_comics": 19, "name": "Ulik"}
+{"num_comics": 0, "name": "Ultimate Spider-Man (USM)"}
+{"num_comics": 26, "name": "Ultimates"}
+{"num_comics": 1, "name": "Ultimatum"}
+{"num_comics": 0, "name": "Ultimo"}
+{"num_comics": 1, "name": "Ultra-Adaptoid"}
+{"num_comics": 1, "name": "Ultragirl (Earth-93060)"}
+{"num_comics": 53, "name": "Ultron"}
+{"num_comics": 13, "name": "Umar"}
+{"num_comics": 1, "name": "Unicorn"}
+{"num_comics": 3, "name": "Union Jack (Brian Falsworth)"}
+{"num_comics": 12, "name": "Union Jack (Joseph Chapman)"}
+{"num_comics": 17, "name": "Union Jack (Montgomery Falsworth)"}
+{"num_comics": 14, "name": "Unus"}
+{"num_comics": 0, "name": "Unus (Age of Apocalypse)"}
+{"num_comics": 0, "name": "Unus (House of M)"}
+{"num_comics": 0, "name": "Unus (Ultimate)"}
+{"num_comics": 5, "name": "Valeria Richards"}
+{"num_comics": 16, "name": "Valkyrie (Samantha Parrington)"}
+{"num_comics": 0, "name": "Valkyrie (Ultimate)"}
+{"num_comics": 0, "name": "Vampiro"}
+{"num_comics": 0, "name": "Vance Astro"}
+{"num_comics": 0, "name": "Vanisher (Age of Apocalypse)"}
+{"num_comics": 7, "name": "Vanisher (Telford Porter)"}
+{"num_comics": 3, "name": "Vanisher (Ultimate)"}
+{"num_comics": 0, "name": "Vapor"}
+{"num_comics": 11, "name": "Vargas"}
+{"num_comics": 0, "name": "Vector"}
+{"num_comics": 0, "name": "Veda"}
+{"num_comics": 32, "name": "Vengeance (Michael Badilino)"}
+{"num_comics": 39, "name": "Venom (Flash Thompson)"}
+{"num_comics": 22, "name": "Venom (Mac Gargan)"}
+{"num_comics": 6, "name": "Venom (Ultimate)"}
+{"num_comics": 7, "name": "Venus (Siren)"}
+{"num_comics": 10, "name": "Venus Dee Milo"}
+{"num_comics": 9, "name": "Vermin (Edward Whelan)"}
+{"num_comics": 23, "name": "Vertigo (Savage Land Mutate)"}
+{"num_comics": 6, "name": "Victor Mancha"}
+{"num_comics": 0, "name": "Victor Von Doom"}
+{"num_comics": 3, "name": "Vin Gonzales"}
+{"num_comics": 27, "name": "Vindicator"}
+{"num_comics": 0, "name": "Violations"}
+{"num_comics": 40, "name": "Viper"}
+{"num_comics": 0, "name": "Virginia Dare"}
+{"num_comics": 268, "name": "Vision"}
+{"num_comics": 20, "name": "Vivisector"}
+{"num_comics": 7, "name": "Vulcan (Gabriel Summers)"}
+{"num_comics": 50, "name": "Vulture (Adrian Toomes)"}
+{"num_comics": 0, "name": "Vulture (Blackie Drago)"}
+{"num_comics": 0, "name": "Wallflower"}
+{"num_comics": 0, "name": "Wallop"}
+{"num_comics": 0, "name": "Wallow"}
+{"num_comics": 13, "name": "War (Abraham Kieros)"}
+{"num_comics": 0, "name": "War Machine (Iron Man 3 - The Official Game)"}
+{"num_comics": 0, "name": "War Machine (Marvel: Avengers Alliance)"}
+{"num_comics": 0, "name": "War Machine (Parnell Jacobs)"}
+{"num_comics": 0, "name": "War Machine (Ultimate)"}
+{"num_comics": 0, "name": "Warbird"}
+{"num_comics": 0, "name": "Warbound"}
+{"num_comics": 6, "name": "Warhawk (Mitchell Tanner)"}
+{"num_comics": 0, "name": "Warlock (Janie Chin)"}
+{"num_comics": 8, "name": "Warlock (Technarchy)"}
+{"num_comics": 156, "name": "Warpath"}
+{"num_comics": 0, "name": "Warren Worthington III"}
+{"num_comics": 9, "name": "Warstar"}
+{"num_comics": 234, "name": "Wasp"}
+{"num_comics": 13, "name": "Wasp (Ultimate)"}
+{"num_comics": 2, "name": "Weapon Omega"}
+{"num_comics": 0, "name": "Weapon X"}
+{"num_comics": 6, "name": "Wendell Rand"}
+{"num_comics": 0, "name": "Wendell Vaughn"}
+{"num_comics": 9, "name": "Wendigo"}
+{"num_comics": 27, "name": "Werewolf By Night"}
+{"num_comics": 12, "name": "Whiplash (Mark Scarlotti)"}
+{"num_comics": 22, "name": "Whirlwind"}
+{"num_comics": 0, "name": "Whistler"}
+{"num_comics": 0, "name": "White Queen (Adrienne Frost)"}
+{"num_comics": 9, "name": "White Tiger (Angela Del Toro)"}
+{"num_comics": 0, "name": "White Tiger (USM)"}
+{"num_comics": 2, "name": "Whizzer (Stanley Stewart)"}
+{"num_comics": 15, "name": "Wiccan"}
+{"num_comics": 17, "name": "Wild Child"}
+{"num_comics": 3, "name": "Wild Child (Age of Apocalypse)"}
+{"num_comics": 0, "name": "Wild Pack"}
+{"num_comics": 15, "name": "Wildside"}
+{"num_comics": 3, "name": "William Stryker"}
+{"num_comics": 0, "name": "Wilson Fisk"}
+{"num_comics": 1, "name": "Wind Dancer"}
+{"num_comics": 152, "name": "Winter Soldier"}
+{"num_comics": 2, "name": "Wither"}
+{"num_comics": 0, "name": "Wolf Cub"}
+{"num_comics": 1, "name": "Wolfpack"}
+{"num_comics": 57, "name": "Wolfsbane"}
+{"num_comics": 0, "name": "Wolfsbane (Age of Apocalypse)"}
+{"num_comics": 0, "name": "Wolver-dok"}
+{"num_comics": 1794, "name": "Wolverine"}
+{"num_comics": 0, "name": "Wolverine (LEGO Marvel Super Heroes)"}
+{"num_comics": 0, "name": "Wolverine (Marvel War of Heroes)"}
+{"num_comics": 26, "name": "Wolverine (Ultimate)"}
+{"num_comics": 0, "name": "Wolverine (X-Men: Battle of the Atom)"}
+{"num_comics": 173, "name": "Wonder Man"}
+{"num_comics": 62, "name": "Wong"}
+{"num_comics": 3, "name": "Wong (Ultimate)"}
+{"num_comics": 8, "name": "Wraith"}
+{"num_comics": 6, "name": "Wrecker"}
+{"num_comics": 3, "name": "Wrecking Crew"}
+{"num_comics": 75, "name": "X-23"}
+{"num_comics": 0, "name": "X-51"}
+{"num_comics": 9, "name": "X-Babies"}
+{"num_comics": 3, "name": "X-Cutioner"}
+{"num_comics": 102, "name": "X-Factor"}
+{"num_comics": 2, "name": "X-Factor Investigations"}
+{"num_comics": 229, "name": "X-Force"}
+{"num_comics": 94, "name": "X-Man"}
+{"num_comics": 2531, "name": "X-Men"}
+{"num_comics": 154, "name": "X-Men (Ultimate)"}
+{"num_comics": 0, "name": "X-Ray (James Darnell)"}
+{"num_comics": 25, "name": "X-Statix"}
+{"num_comics": 0, "name": "X.S.E."}
+{"num_comics": 0, "name": "Xavin"}
+{"num_comics": 19, "name": "Xorn (Kuan-Yin Xorn)"}
+{"num_comics": 18, "name": "Yellow Claw"}
+{"num_comics": 3, "name": "Yellowjacket (Rita DeMara)"}
+{"num_comics": 36, "name": "Young Avengers"}
+{"num_comics": 14, "name": "Young X-Men"}
+{"num_comics": 16, "name": "Zaladane"}
+{"num_comics": 7, "name": "Zaran"}
+{"num_comics": 2, "name": "Zarda"}
+{"num_comics": 0, "name": "Zarek"}
+{"num_comics": 0, "name": "Zeigeist"}
+{"num_comics": 0, "name": "Zemo"}
+{"num_comics": 1, "name": "Zodiak"}
+{"num_comics": 1, "name": "Zombie (Simon Garth)"}
+{"num_comics": 2, "name": "Zuras"}
+{"num_comics": 3, "name": "Zzzax"}
