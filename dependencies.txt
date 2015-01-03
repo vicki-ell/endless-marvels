@@ -1,0 +1,4 @@
+datasift==2.0.12
+requests==2.5.0
+argparse==1.2.1
+
