@@ -1,7 +1,6 @@
 import datasift
 import json
 import argparse
-from datetime import datetime, timedelta
 from marvel import Marvel
 from datasift.exceptions import DataSiftApiException
 from settings import DS_USERNAME, DS_APIKEY, METADATA_FILE, RAW_FILE, JSON_FILE
@@ -11,7 +10,7 @@ def build_json(msg):
     ''' Extracts relevant data from the raw interaction
         and adds it to the JSON structure
     '''
-    fs = open('data/%s' % JSON_FILE, 'r+')
+    fs = open(JSON_FILE, 'r+')
 
     try:
         stats = json.load(fs)
@@ -118,7 +117,7 @@ def get_marvel_names():
 
     marvel = Marvel()
 
-    fs = open('data/%s' % METADATA_FILE, 'w')
+    fs = open(METADATA_FILE, 'w')
 
     for i in marvel.get_names():
         fs.write(i + '\n')
@@ -151,7 +150,7 @@ def main():
     client = datasift.Client(DS_USERNAME, DS_APIKEY)
 
     # Construct the filter
-    csdl = construct_filter('data/%s' % METADATA_FILE)
+    csdl = construct_filter(METADATA_FILE)
 
     try:
         hash = client.compile(csdl)["hash"]
@@ -177,15 +176,15 @@ def main():
     def on_open():
 
         # Empty the files
-        fs_raw = open('data/%s' % RAW_FILE, 'w').close()
-        fs_json = open('data/%s' % JSON_FILE, 'w').close()
+        fs_raw = open(RAW_FILE, 'w').close()
+        fs_json = open(JSON_FILE, 'w').close()
         
         @client.subscribe(hash)
         def on_interaction(interaction):
             print '.'
      
             # Store the raw interaction
-            fs_raw = open('data/%s' % RAW_FILE, 'a')
+            fs_raw = open(RAW_FILE, 'a')
             fs_raw.write('%s\n' % interaction)
             fs_raw.close()
           
@@ -199,4 +198,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

@@ -69,7 +69,7 @@ def main():
 
     marvel = Marvel()
 
-    fs = open('data/%s' % METADATA_FILE, 'w')
+    fs = open(METADATA_FILE, 'w')
 
     for i in marvel.get_names():
         fs.write(i + '\n')

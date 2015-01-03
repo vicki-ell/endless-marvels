@@ -7,13 +7,9 @@ class StatsPrinter(object):
     '''
     def __init__(self):
 
-        fs = open('data/%s' % JSON_FILE, 'r')
+        fs = open(JSON_FILE, 'r')
         self.data = json.load(fs)
         fs.close()
-
-       # fs = open('data/%s' % JSON_FILE, 'r')
-       # self.data = json.loads(fs.read())
-       # fs.close()
 
 
     def print_stats(self, data, key=None, max=10):

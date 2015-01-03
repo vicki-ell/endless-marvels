@@ -1,13 +1,13 @@
- Endless Marvels
+#Endless Marvels
 
 ##Description
 
 This app reads Marvel character names, then runs a DataSift Stream to obtain relevant social media data. The following summary statistics can subsequently be generated:
 
- * The top 10 characters with the most mentions
- * The top 10 character pairs that are mentioned together
- * The top 10 characters for which the proportion of users is female
- * The top 10 most and least liked characters
+ * The characters with the most mentions
+ * The character pairs that are mentioned together
+ * The characters for which the proportion of mentions is female
+ * The most and least liked characters
 
 ##Installation
  *  Clone the repo
