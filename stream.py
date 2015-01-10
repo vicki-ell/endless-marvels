@@ -6,6 +6,29 @@ from datasift.exceptions import DataSiftApiException
 from settings import DS_USERNAME, DS_APIKEY, METADATA_FILE, RAW_FILE, JSON_FILE
 
 
+def serialise_datetime(msg):
+    ''' Convert datetime object to a string
+        so it can be converted to JSON
+    '''
+    for k, v in msg.iteritems():
+        if isinstance(v, datetime):
+            msg[k] = v.isoformat()
+        elif isinstance(v, dict):
+            serialise_datetime(v)
+
+    return msg
+            
+def save_raw_interaction(msg):
+    ''' Append the raw interaction to a file
+    '''
+    serialised_msg = serialise_datetime(msg)
+
+    fs = open(RAW_FILE, 'a')
+    json.dump(serialised_msg, fs)
+    fs.write('\n')
+    fs.close()
+    
+
 def build_json(msg):
     ''' Extracts relevant data from the raw interaction
         and adds it to the JSON structure
@@ -184,9 +207,7 @@ def main():
             print '.'
      
             # Store the raw interaction
-            fs_raw = open(RAW_FILE, 'a')
-            fs_raw.write('%s\n' % interaction)
-            fs_raw.close()
+            save_raw_interaction(interaction)
           
             # Extract some useful stats in JSON format
             build_json(interaction)
